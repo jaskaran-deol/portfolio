@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18c476ba.css",
+    "main.js": "/static/js/main.2e2698ff.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/static/media/leaf.f16ebdc1f116f4b9b20f.png",
+    "static/media/suicide.png": "/static/media/suicide.c66d20886fb2ac8af254.png",
+    "static/media/emotion.png": "/static/media/emotion.f5c55f0a33e1dc3d0cb5.png",
+    "static/media/chatify.png": "/static/media/chatify.b6144f22b6fd7f6f36aa.png",
+    "static/media/blog.png": "/static/media/blog.14f60414fb0b4a36fb39.png",
+    "static/media/codeEditor.png": "/static/media/codeEditor.0d54efc5cd61282ae813.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/JaskaranDeol_resume.pdf": "/static/media/JaskaranDeol_resume.c39da622727a3c131665.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.18c476ba.css.map": "/static/css/main.18c476ba.css.map",
+    "main.2e2698ff.js.map": "/static/js/main.2e2698ff.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18c476ba.css",
+    "static/js/main.2e2698ff.js"
+  ]
+}
