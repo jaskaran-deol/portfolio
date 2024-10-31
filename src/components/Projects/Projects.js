@@ -15,17 +15,17 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          My Recent <strong className="purple">Works </strong>
+          My recent Products<strong className="purple"> as Engineer </strong>
         </h1>
         <p style={{ color: "white" }}>
-          Here are a few projects I've worked on recently.
+          Here are the entreprise digital web based products that i engineered recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Sonnet Swift"
+              title="Sonnet Swift Mobile Application"
               demoLink="https://www.sonnet.ca/shift"
             />
           </Col>
@@ -34,8 +34,9 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Sonnet First Notice of Loss"
+              title="Sonnet Claims Web Application"
               demoLink="https://www.sonnet.ca/claims"
+              //description="Developed and delivered company's first web app for self serve for Fist Notice of Loss for auto & property using React, Express, GraphQL, DynamoDB to serve Sonnet customers."
             />
           </Col>
 
@@ -43,7 +44,7 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Postmedia Hub"
+              title="Postmedia Hub Web Application"
               demoLink="https://www.postmediasolutions.com/the-postmedia-hub/"              
             />
           </Col>

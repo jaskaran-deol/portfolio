@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Reader, I am <span className="purple">Jaskaran Deol </span>
             based out of  <span className="purple"> Toronto & Kitchener-Waterloo.</span>
-            <br /> Experienced Full Stack software developer specializing in the MERN stack. With a solid background in     enterprise web app development, I have successfully delivered projects for renowned companies
+            <br /> Experienced Senior Full Stack software Engineer specializing in the MERN stack. With a solid background in enterprise web app development, I have successfully delivered projects for renowned companies
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
@@ -19,10 +19,10 @@ function AboutCard() {
               <ImPointRight /> Running Marathons
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Nutrition  Blogs
+              <ImPointRight /> Writing Technical Documents for fun
             </li>
             <li className="about-activity">
-              <ImPointRight /> Cooking
+              <ImPointRight /> Building Strategy 
             </li>
           </ul>
 
