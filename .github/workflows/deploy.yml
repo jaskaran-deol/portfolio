@@ -32,13 +32,13 @@ jobs:
         run: "npm install"
 
       - name: Build step
-        run: "npm run deploy"
+        run: "npm run build"
 
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "jaskarandeo-portfolio-99"
+          project: "jaskarandeo-portfolio-93"
           entrypoint: "https://deno.land/std@0.217.0/http/file_server.ts"
-          root: ""
+          root: "build"
           
           
